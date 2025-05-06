@@ -34,7 +34,7 @@ Individual assignments and reports from the Deep Learning course:
 
 In-depth research and analysis reports on deep learning topics:
 
-- [AI Agent Report](./AI%20Agent%20Report%20Varit%20Kobutra.pdf) - Comprehensive analysis of AI agents and their implementation using deep learning
+- [AI Agent Report](./AI%20Agent%20Report%20Varit%20Kobutra.pdf) - Detailed report on creating Izzy, an AI-powered interview preparation platform using deep learning techniques
 - [Analyzing Arrival NLP](./Analyzing%20Arrival%20NLP.pdf) - NLP analysis inspired by the film "Arrival" with deep learning techniques
 - [Exploring Deep Learning Tools](./Exploring%20Deep%20Learning%20Tools%20Varit%20Kobutra.pdf) - Survey of popular frameworks and libraries for deep learning
 
@@ -102,29 +102,36 @@ This project provides an organized taxonomy of neural network architectures, ser
 </details>
 
 <details open>
-<summary><b>🤖 AI Agents with Deep Learning</b></summary>
+<summary><b>🤖 Final Project - Izzy: AI Interview Preparation Platform</b></summary>
 <br>
 
-<a href="https://github.com/henrykobutra/itai2376/blob/main/AI%20Agent%20Report%20Varit%20Kobutra.pdf">
+<a href="https://github.com/henrykobutra/izzy-02">
   <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
 </a>
 
-A comprehensive analysis of intelligent agent systems powered by deep learning:
+Izzy is an intelligent interview preparation companion that transforms nervous job seekers into confident interviewees through AI-driven mock interviews, personalized feedback, and targeted preparation strategies.
 
-- **Agent Architectures**: Examination of different approaches to designing AI agents
-- **Neural Foundations**: How deep learning enables advanced agent capabilities
-- **Decision Making Systems**: Implementation of neural networks for agent decision processes
-- **Multi-Agent Interactions**: Analysis of complex systems with multiple intelligent agents
-- **Real-World Applications**: Case studies of deep learning agents in practical scenarios
+### Key Features:
+- **AI Mock Interviews**: Practice with hyper-realistic interview simulations tailored to specific job positions
+- **Voice-Powered Interviews**: Natural conversation with AI interviewers using VAPI's voice agents
+- **Personalized Profile Analysis**: Deep insights on professional strengths and improvement areas
+- **Interview Strategy**: Customized preparation plans based on job descriptions and professional profiles
+- **Comprehensive Feedback**: Detailed performance metrics and actionable improvement suggestions
+- **Progress Tracking**: Visualization of improvement journey with analytics
 
-**Technologies Used:**
-- Deep reinforcement learning
-- Neural decision systems
-- State representation techniques
-- Policy optimization methods
-- Agent simulation environments
+### Technologies & AI Implementation:
+- **Frontend**: Next.js 15, React 19, TailwindCSS 4, shadcn/ui component library
+- **Backend**: Supabase Auth and PostgreSQL
+- **AI Integration**:
+  - OpenAI SDK with GPT-4o for interview simulations
+  - Google Gemini Pro 2.5 Preview for analysis
+  - VAPI for voice agents and conversational routing
+- **Agent Configuration**: Specialized AI agents for profile analysis, question generation, feedback evaluation, and strategy planning
 
-This project explores the integration of deep learning with agent-based systems, demonstrating how neural networks enhance the capabilities of intelligent agents.
+### Project Repository:
+- [GitHub: henrykobutra/izzy-02](https://github.com/henrykobutra/izzy-02)
+
+This project demonstrates practical application of state-of-the-art AI technologies to create an interactive, helpful tool that addresses real-world challenges in career development.
 </details>
 
 <details open>
