@@ -22,38 +22,28 @@ CRN: 19519
 <details open>
 <summary><b>📚 Repository Structure</b></summary>
 
-### 📂 Course Modules
+### 📂 Course Assignments & Reports
 
-Comprehensive notes and implementations for each module:
+Individual assignments and reports from the Deep Learning course:
 
-- **Module 01:** [Introduction to Deep Learning](./modules/mod01-intro-deep-learning/)
-- **Module 02:** [Deep Learning Environments, Libraries, and Tools](./modules/mod02-environments-libraries-tools/)
-- **Module 03:** [Neural Networks Basics](./modules/mod03-neural-networks-basics/)
-- **Module 04:** [Convolutional Neural Networks](./modules/mod04-convolutional-neural-networks/)
-- **Module 05:** [Advanced Convolutional Neural Networks](./modules/mod05-advanced-cnn/)
-- **Module 06:** [Recurrent Neural Networks and LSTM](./modules/mod06-rnn-lstm/)
-- **Module 07:** [Regularization and Optimization](./modules/mod07-regularization-optimization/)
-- **Module 08:** [Generative AI: VAEs and VQ-VAE 2.0](./modules/mod08-vaes-vqvae/)
-- **Module 09:** [Generative AI: GANs and U-net](./modules/mod09-gans-unet/)
-- **Module 10:** [Generative AI: Diffusion Models and CLIP](./modules/mod10-diffusion-clip/)
-- **Module 11:** [Advanced NLP Sequence Models, RAG](./modules/mod11-nlp-rag/)
-- **Module 12:** [Transformers and Large Language Models (LLMs)](./modules/mod12-transformers-llms/)
-- **Module 13:** [Causal Inference in Deep Learning](./modules/mod13-causal-inference/)
-- **Module 14:** [Reinforcement Learning - Concepts and Strategies](./modules/mod14-reinforcement-learning/)
-- **Module 15:** [Current Trends and Future Directions](./modules/mod15-trends-directions/)
-- **Module 16:** [Course Review](./modules/mod16-course-review/)
+- **A02:** [Deep Learning Analysis.pdf](./A02%20Deep%20Learning%20Analysis.pdf) - Analysis of deep learning applications and impacts
+- **A03:** [Neural Network Zoo](./A03%20Neural%20Network%20Zoo%20Varit%20Kobutra.pdf) - Exploration of different neural network architectures
+- **A04:** [Deep Learning for Kids](./Deep%20Learning%20for%20Kids%20A04.pptx) - Presentation on explaining deep learning concepts to young audiences
 
-### 📊 Laboratory Work
+### 📊 Research & Analysis
 
-Documentation of hands-on lab exercises and implementations:
+In-depth research and analysis reports on deep learning topics:
 
-- [Lab 01: Setting Up Deep Learning Environments](./labs/lab01-setup/)
-- [Lab 02: Implementing Basic Neural Networks](./labs/lab02-basic-nn/)
-- [Lab 03: CNN Implementation for Image Classification](./labs/lab03-cnn-image/)
-- [Lab 04: RNN and LSTM for Sequence Modeling](./labs/lab04-rnn-lstm/)
-- [Lab 05: Training Generative Models](./labs/lab05-generative-models/)
-- [Lab 06: Building and Fine-tuning Transformers](./labs/lab06-transformers/)
-- [Lab 07: Reinforcement Learning Implementation](./labs/lab07-reinforcement/)
+- [AI Agent Report](./AI%20Agent%20Report%20Varit%20Kobutra.pdf) - Comprehensive analysis of AI agents and their implementation using deep learning
+- [Analyzing Arrival NLP](./Analyzing%20Arrival%20NLP.pdf) - NLP analysis inspired by the film "Arrival" with deep learning techniques
+- [Exploring Deep Learning Tools](./Exploring%20Deep%20Learning%20Tools%20Varit%20Kobutra.pdf) - Survey of popular frameworks and libraries for deep learning
+
+### 🏆 Midterm Project
+
+Deliverables for the course midterm project:
+
+- [Midterm Creating Images (Jupyter Notebook)](./Midterm%20Creating%20Images%20Varit%20Kobutra.ipynb) - Implementation of deep learning models for image generation
+- [Midterm Report](./Midterm%20Report%20Varit%20Kobutra.pdf) - Comprehensive documentation of the midterm project findings and results
 
 </details>
 
