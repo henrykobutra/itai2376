@@ -50,11 +50,115 @@ Deliverables for the course midterm project:
 ## 🚀 Projects
 
 <details open>
-<summary><b>🎙️ Izzy: Deep Learning Interview Assistant</b></summary>
+<summary><b>🖼️ Deep Learning Image Generation</b></summary>
 <br>
 
-<a href="./projects/izzy-dl">
-  <img src="https://img.shields.io/badge/Project-Izzy-brightgreen?style=for-the-badge&logo=openai" alt="Project Link">
+<a href="https://github.com/henrykobutra/itai2376/blob/main/Midterm%20Creating%20Images%20Varit%20Kobutra.ipynb">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+
+A comprehensive implementation of deep learning techniques for image generation:
+
+- **Generative Models**: Implementation of different approaches to AI-driven image creation
+- **Neural Style Transfer**: Application of artistic styles to content images using deep neural networks
+- **Model Architecture Analysis**: Examination of different network architectures for image synthesis
+- **Performance Evaluation**: Metrics and visual assessment of generated image quality
+- **Hyperparameter Optimization**: Systematic approach to finding optimal model configurations
+
+**Technologies Used:**
+- Jupyter Notebook for interactive development
+- Python with deep learning frameworks
+- CNN architectures for image processing
+- Visualization tools for result analysis
+- Transfer learning techniques
+
+This project demonstrates practical application of deep learning concepts to creative image generation tasks.
+</details>
+
+<details open>
+<summary><b>🧠 Neural Network Architecture Zoo</b></summary>
+<br>
+
+<a href="https://github.com/henrykobutra/itai2376/blob/main/A03%20Neural%20Network%20Zoo%20Varit%20Kobutra.pdf">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+
+A detailed exploration of diverse neural network architectures and their applications:
+
+- **Architecture Comparison**: Comprehensive analysis of different neural network types and structures
+- **Visual Representations**: Diagrams and illustrations clarifying network architectures
+- **Use Case Mapping**: Identification of optimal network types for specific applications
+- **Historical Development**: Tracing the evolution of neural network architectures
+- **Performance Characteristics**: Analysis of strengths and limitations of different architectures
+
+**Technologies Used:**
+- Research-based analysis of various architectures
+- Technical diagrams and visualizations
+- Comparative assessment frameworks
+- Deep learning model classifications
+- Application-specific considerations
+
+This project provides an organized taxonomy of neural network architectures, serving as a reference guide for selecting appropriate models for specific deep learning tasks.
+</details>
+
+<details open>
+<summary><b>🤖 AI Agents with Deep Learning</b></summary>
+<br>
+
+<a href="https://github.com/henrykobutra/itai2376/blob/main/AI%20Agent%20Report%20Varit%20Kobutra.pdf">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+
+A comprehensive analysis of intelligent agent systems powered by deep learning:
+
+- **Agent Architectures**: Examination of different approaches to designing AI agents
+- **Neural Foundations**: How deep learning enables advanced agent capabilities
+- **Decision Making Systems**: Implementation of neural networks for agent decision processes
+- **Multi-Agent Interactions**: Analysis of complex systems with multiple intelligent agents
+- **Real-World Applications**: Case studies of deep learning agents in practical scenarios
+
+**Technologies Used:**
+- Deep reinforcement learning
+- Neural decision systems
+- State representation techniques
+- Policy optimization methods
+- Agent simulation environments
+
+This project explores the integration of deep learning with agent-based systems, demonstrating how neural networks enhance the capabilities of intelligent agents.
+</details>
+
+<details open>
+<summary><b>📝 NLP Analysis: Film "Arrival"</b></summary>
+<br>
+
+<a href="https://github.com/henrykobutra/itai2376/blob/main/Analyzing%20Arrival%20NLP.pdf">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+
+An innovative analysis applying natural language processing concepts from the film "Arrival":
+
+- **Linguistic Pattern Recognition**: Analysis of language structures using deep learning approaches
+- **Communication Systems**: Exploration of non-standard communication patterns and neural models
+- **Semantic Understanding**: Deep learning approaches to deriving meaning from novel language forms
+- **Translation Systems**: Neural network architectures for cross-language interpretation
+- **Temporal Linguistics**: Analysis of time concepts in language processing
+
+**Technologies Used:**
+- Natural language processing frameworks
+- Transformer-based language models
+- Semantic analysis techniques
+- Comparative linguistics concepts
+- Neural translation systems
+
+This project applies deep learning NLP concepts through the lens of the film "Arrival," exploring how neural networks can approach novel communication and language understanding challenges.
+</details>
+
+<details open>
+<summary><b>🎙️ Izzy - AI-Powered Interview Preparation Platform</b></summary>
+<br>
+
+<a href="https://github.com/henrykobutra/izzy-02">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
 </a>
 
 An advanced AI-powered interview preparation companion enhanced with deep learning capabilities:
@@ -76,11 +180,14 @@ This project demonstrates the application of deep learning to create natural con
 </details>
 
 <details open>
-<summary><b>⚡ EnergyBlitz: Deep Learning for Energy Forecasting</b></summary>
+<summary><b>⚡ EnergyBlitz - AI-Powered Energy Forecasting Platform</b></summary>
 <br>
 
-<a href="./projects/energyblitz-dl">
-  <img src="https://img.shields.io/badge/Project-EnergyBlitz-brightgreen?style=for-the-badge&logo=tensorflow" alt="Project Link">
+<a href="https://github.com/henrykobutra/energyblitz">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+<a href="https://energyblitz.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
 </a>
 
 A sophisticated energy consumption forecasting system utilizing advanced deep learning architectures:
@@ -102,11 +209,14 @@ This project demonstrates the application of cutting-edge deep learning techniqu
 </details>
 
 <details open>
-<summary><b>🍕 CraftPizza-Tony-Bot: NLP with Deep Learning</b></summary>
+<summary><b>🍕 CraftPizza-Tony-Bot - NLP Chatbot with Deep Learning</b></summary>
 <br>
 
-<a href="./projects/tonybot-dl">
-  <img src="https://img.shields.io/badge/Project-TonyBot-brightgreen?style=for-the-badge&logo=huggingface" alt="Project Link">
+<a href="https://github.com/henrykobutra/craftpizza-tony-bot">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+<a href="https://craftpizza-tony-bot.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
 </a>
 
 An enhanced conversational chatbot utilizing advanced NLP and deep learning techniques for customer service:
@@ -127,45 +237,19 @@ An enhanced conversational chatbot utilizing advanced NLP and deep learning tech
 This project demonstrates the application of modern deep learning approaches to natural language processing challenges in real-world business contexts.
 </details>
 
-<details open>
-<summary><b>🖼️ Computer Vision with Deep Neural Networks</b></summary>
-<br>
-
-<a href="./projects/cv-portfolio">
-  <img src="https://img.shields.io/badge/Project-CV_Portfolio-brightgreen?style=for-the-badge&logo=opencv" alt="Project Link">
-</a>
-
-A comprehensive exploration of deep learning approaches to computer vision problems:
-
-- **CNN Architectures**: Implementation and comparison of ResNet, EfficientNet, Vision Transformers, and other architectures
-- **Object Detection**: Deep learning models for identifying and localizing objects within images
-- **Semantic Segmentation**: Pixel-level classification using fully convolutional networks
-- **Image Generation**: Exploration of GANs and diffusion models for creating synthetic visual data
-- **Transfer Learning**: Adaptation of pre-trained vision models to specialized downstream tasks
-
-**Technologies Used:**
-- PyTorch and TensorFlow for model development
-- OpenCV for image preprocessing
-- CUDA for GPU acceleration
-- Jupyter notebooks for interactive development
-- Visualization tools for model interpretation
-
-This portfolio demonstrates practical implementation of state-of-the-art deep learning approaches to computer vision challenges.
-</details>
-
 ## 🛠️ Technologies & Frameworks
 
-This course explores various deep learning technologies including:
+This repository demonstrates experience with various deep learning technologies:
 
-- **TensorFlow/Keras**: For building and training neural network models
-- **PyTorch**: Alternative deep learning framework with dynamic computation graphs
-- **Jupyter Notebooks**: For interactive development and visualization
-- **NumPy/Pandas**: For data manipulation and preprocessing
-- **Matplotlib/Seaborn**: For data visualization
-- **Cloud Computing Platforms**: For training resource-intensive models
-- **Hugging Face Transformers**: For working with state-of-the-art language models
-- **OpenAI Ecosystem**: For exploring cutting-edge AI capabilities
-- **GitHub**: For version control and portfolio creation
+- **Python**: Primary programming language for deep learning implementations
+- **Jupyter Notebooks**: Interactive development environment for model creation and testing
+- **TensorFlow/Keras**: Framework for building and training neural networks
+- **CNN Architectures**: Implementation of various convolutional neural network designs
+- **Generative Models**: Techniques for creating synthetic data and imagery
+- **Natural Language Processing**: Methods for analyzing and processing text data
+- **Neural Style Transfer**: Techniques for applying artistic styles to images
+- **Transfer Learning**: Adapting pre-trained models to new domains
+- **Agent-Based Systems**: Integration of deep learning with intelligent agent frameworks
 
 ## 🙏 Acknowledgments
 
